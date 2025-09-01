@@ -1,0 +1,187 @@
+
+🌐 Website Script (Alia Star SK Furniture)
+
+1. Website Basic Info
+
+Website Name (Top Header): Alia Star
+
+Sub Name (Below): SK Furniture
+
+Owner: Md Sameer
+
+Address: Shiv Colony, Khairthal Road, Kishangarh-Bas (Alwar)
+
+WhatsApp Contact:
+
+8905597089
+
+9549715151
+
+
+Deals In:
+
+Bonded Mattress
+
+Foam Mattress
+
+Memorial Mattress
+
+HR Mattress
+
+Spring Mattress
+
+All Type of Mattress
+
+
+
+
+---
+
+2. Main Website Pages
+
+1. 🏠 Home Page
+
+
+2. 🛋️ Products Page
+
+Bonded Mattress
+
+Foam Mattress
+
+HR Mattress
+
+Spring Mattress
+
+Memory Foam Mattress
+
+Furniture Collection
+
+
+
+3. 📸 Gallery Page
+
+
+4. ⭐ Customer Reviews
+
+
+5. 📞 Contact Us Page
+
+
+6. ℹ️ About Us Page
+
+
+
+
+---
+
+3. Functions & Features
+
+🔎 Search Bar (for products)
+
+🛒 Add to Cart Function
+
+💳 Online Payment Gateway (UPI, Debit, Credit, Netbanking)
+
+📱 WhatsApp Chat Button (direct chat on both numbers)
+
+📍 Google Map Integration (Shop location)
+
+✉️ Inquiry Form (for customers to send queries)
+
+🔔 Push Notification / Offer Popups
+
+🌙 Dark Mode & Light Mode Option
+
+🔐 Login/Signup Option (Customer Account)
+
+⭐ Wishlist / Favorite Option
+
+🔄 Compare Products Option
+
+🖼️ High-Resolution Product Zoom Feature
+
+
+
+---
+
+4. Animations & Graphics (UI/UX)
+
+✨ Header Animation: Logo fade-in + sliding text
+
+📜 Scrolling Text Animation: "Best Quality Furniture & Mattress in Alwar" (marquee style)
+
+🖼️ Image Slider Animation: Auto play carousel with smooth left-right sliding
+
+🔲 Card Hover Animation: Product cards zoom-in + shadow effect
+
+📌 Button Hover Animation: Color change + ripple effect
+
+🔄 Page Transition Animation: Fade-in / slide-up effect
+
+🎞️ Gallery Animation: Lightbox pop-up with zoom effect
+
+📱 Mobile Responsive Animation: Menu slide from left
+
+⭐ Customer Reviews Animation: Auto slider testimonials
+
+📊 Progress Bar Animation: Showing “Experience / Trust Level / Quality %”
+
+🎇 Offer Banner Animation: Flashing sale offers
+
+
+
+---
+
+5. All Animation Names (for Developer Reference)
+
+Fade In / Fade Out
+
+Slide In (Left, Right, Up, Down)
+
+Bounce
+
+Zoom In / Zoom Out
+
+Rotate
+
+Parallax Scrolling
+
+Hover Scale Animation
+
+Typewriter Text Animation
+
+Ripple Effect
+
+Glow Effect
+
+Card Flip Animation
+
+Lightbox Popup Animation
+
+Sticky Header Animation
+
+Progress Counter Animation
+
+Carousel Auto Slide
+
+
+
+---
+
+6. Extra Website Settings
+
+🌐 Multi-Language Support (Hindi + English)
+
+📶 Fast Loading Speed (Lazy Loading Images)
+
+🔒 SSL Secure Website (HTTPS)
+
+📤 Social Media Share Buttons (Facebook, Instagram, WhatsApp)
+
+🧩 SEO Friendly (Google Ranking setup)
+
+📊 Analytics Setup (Google Analytics for visitors)
+
+
+
+---
